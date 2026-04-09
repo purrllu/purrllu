@@ -16,11 +16,12 @@
 
 ## Socials && Contact
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tucker-hartleb/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hartleb_tucker_/)
-
-</div>
+<a href="https://www.linkedin.com/in/tucker-hartleb/">
+          <img alt="linkedin" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
+</a>
+<a href="https://www.instagram.com/hartleb_tucker_/">
+          <img alt="instagram" width="70px" src="https://img.icons8.com/fluency/70/instagram-new.png" />
+</a> could you update these so its the shields.io
           
           
           
