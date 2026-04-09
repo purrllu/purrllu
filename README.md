@@ -21,9 +21,6 @@
 <a href="https://www.linkedin.com/in/tucker-hartleb/">
   <img alt="linkedin" width="70px" style="padding-right:70px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/></a>
 <a href="https://www.instagram.com/hartleb_tucker_/">
-  <img alt="instagram" width="70px" style="padding-right:70px;" src="https://raw.githubusercontent.com/Purrllu/Purrllu/main/skill-icons--instagram.svg"/></a>        
-          
-          
-          
-          
-
+  <img alt="instagram" width="70px" style="padding-right:70px;" src="https://raw.githubusercontent.com/Purrllu/Purrllu/main/skill-icons--instagram.svg"/></a>       
+<a href="https://discord.com/users/598259263705448458">
+  <img alt="discord" width="70px" style="padding-right:70px;" src="https://github.com/purrllu/purrllu/blob/main/skill-icons--discord.svg"/></a>      
