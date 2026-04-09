@@ -11,6 +11,8 @@
 <img align="left" alt="linux" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 <img align="left" alt="kali linux" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-plain-wordmark.svg" /> 
 <img align="left" alt="bash" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+<img align="left" alt="metasploit" width="70px" style="padding-right:10px;" src="https://github.com/purrllu/purrllu/blob/main/simple-icons--metasploit.svg" />
+<img align="left" alt="wireshark" width="70px" style="padding-right:10px;" src="https://github.com/purrllu/purrllu/blob/main/simple-icons--wireshark.svg" />
 
 <br clear="left"/> 
 
