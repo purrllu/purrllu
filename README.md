@@ -12,7 +12,7 @@
 <img align="left" alt="kali linux" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-plain-wordmark.svg" /> 
 <img align="left" alt="bash" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 
-Socials && Contact
+## Socials && Contact
 <a href="https://www.linkedin.com/in/tucker-hartleb/">
           <img alt="linkedin" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
 </a>
