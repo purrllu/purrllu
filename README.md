@@ -2,7 +2,9 @@
 *`Cybersecurity student @ Penn State || Aspiring Cyber Professional`*
 
 ## About Me
-- leave this here for later
+- second year cybersecurity student @ penn state
+- passion & interest for scripting | CLI applications | network security | cyber forensics
+- always looking for new projects and challenges 
 
 ## Languages && Tools
 <img align="left" alt="python" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
