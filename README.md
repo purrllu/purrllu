@@ -18,7 +18,7 @@
 
 <br clear="left"/> 
 
-<div align="centered">
+
 
 ## Socials && Contact
 
@@ -29,4 +29,4 @@
 <a href="https://discord.com/users/598259263705448458">
   <img alt="discord" width="70px" style="padding-right:70px;" src="https://github.com/purrllu/purrllu/blob/main/skill-icons--discord.svg"/></a>  
 
-</div>
+
