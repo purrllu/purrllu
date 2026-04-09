@@ -1,4 +1,7 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=1347F7&width=435&lines=Purrllu+(Tucker+Hartleb)" alt="Typing SVG" /></a>
+<a href="https://github.com/purrllu">
+  <img src="https://readme-typing-svg.demolab.com?font=Victor+Mono&style=italic&weight=700&size=28&vCenter=true&pause=1000&color=F7F7F7&width=600&height=50&lines=Purrllu+(Tucker+Hartleb)" alt="Typing SVG" />
+</a>e
+
 *`Cybersecurity student @ Penn State || Aspiring Cyber Professional`*
 
 ## About Me
