@@ -1,4 +1,4 @@
-# *Purrllu (Tucker Hartleb)*
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=1347F7&width=435&lines=Purrllu+(Tucker+Hartleb)" alt="Typing SVG" /></a>
 *`Cybersecurity student @ Penn State || Aspiring Cyber Professional`*
 
 ## About Me
