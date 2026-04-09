@@ -16,7 +16,7 @@
 
 ## Socials && Contact
 
-<a href="https://www.linkedin.com/in/tucker-hartleb/">
+<a href="https://www.linkedin.com/in/tucker-hartleb/" style="text-decoration:none">
           <img alt="linkedin" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
 </a>
 <a href="https://www.instagram.com/hartleb_tucker_/">
