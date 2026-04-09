@@ -16,11 +16,11 @@
 
 ## Socials && Contact
 
-<a href="https://www.linkedin.com/in/tucker-hartleb/" style="text-decoration:none;">
-          <img alt="linkedin" width="70px" style="vertical-align:bottom;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
+<a href="https://www.linkedin.com/in/tucker-hartleb/">
+          <img alt="linkedin" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
 </a>
-<a href="https://www.instagram.com/hartleb_tucker_/" style="text-decoration:none;">
-          <img alt="instagram" width="70px" style="vertical-align:bottom;" src="https://raw.githubusercontent.com/Purrllu/Purrllu/main/skill-icons--instagram.svg"/>
+<a href="https://www.instagram.com/hartleb_tucker_/">
+          <img alt="instagram" width="70px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Purrllu/Purrllu/main/skill-icons--instagram.svg"/>
 </a>           
           
           
