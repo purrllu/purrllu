@@ -1,11 +1,17 @@
 # Purrllu (Tucker Hartleb)
 
+---
+
 *`Cybersecurity student @ Penn State || Aspiring Cyber Professional`*
 
 ---
 
 ## About Me
-- this
-- is
-- a
-- test
+
+---
+
+- leave this here for later
+
+## Languages and Tools
+
+---
