@@ -1,13 +1,16 @@
 <a href="https://github.com/purrllu">
-  <img src="https://readme-typing-svg.demolab.com?font=Victor+Mono&style=italic&weight=700&size=28&vCenter=true&pause=1000&color=F7F7F7&width=600&height=50&lines=Purrllu+(Tucker+Hartleb)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=700&size=28&pause=1000&color=F7F7F7&width=600&height=50&lines=Purrllu+(Tucker+Hartleb)" alt="Typing SVG" />
 </a>
 
-*`Cybersecurity student @ Penn State || Aspiring Cyber Professional`*
 
-## About Me
-- second year cybersecurity student @ penn state
-- passion & interest for scripting | CLI applications | network security | cyber forensics
-- always looking for new projects and challenges 
+***`Cybersecurity student @ Penn State || Aspiring Cyber Professional`***
+
+## About me
+  *`Second-year cybersecurity student @ Penn State`*
+  <br clear="left"/> 
+  *`Interests: scripting · CLI tooling · network security · cyber forensics`*
+  <br clear="left"/> 
+  *`Status: always looking for new projects & challenges`*
 
 ## Languages && Tools
 <img align="left" alt="python" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
