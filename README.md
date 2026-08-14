@@ -3,14 +3,14 @@
 </a>
 
 
-***`Cybersecurity student @ Penn State || Aspiring Cyber Professional`***
+***`Cybersecurity student @ Penn State`***
 
 ## About me
   *`Second-year cybersecurity student @ Penn State`*
   <br clear="left"/> 
   *`Interests: scripting · CLI tooling · network security · cyber forensics`*
   <br clear="left"/> 
-  *`Status: always looking for new projects & challenges`*
+
 
 ## Languages && Tools
 <img align="left" alt="python" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
